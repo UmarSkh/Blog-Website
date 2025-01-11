@@ -1,7 +1,7 @@
 # **Blog Website**
 
 ## **1. Introduction**
-**Daily Journal** is a blogging platform where users can read, write, and share insightful posts on a variety of topics. The website allows users to explore different articles ranging from lifestyle and technology to personal development. It's built using **Node.js**, **Express**, **MongoDB**, and **EJS**.
+**Evergreen Diary** is a blogging platform where users can read, write, and share insightful posts on a variety of topics. The website allows users to explore different articles ranging from lifestyle and technology to personal development. It's built using **Node.js**, **Express**, **MongoDB**, and **EJS**.
 
 ### **Access the Deployed App**
 Click [here](https://blog-website-production-92e8.up.railway.app/) to access the live application.
