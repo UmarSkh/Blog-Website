@@ -4,7 +4,7 @@
 **Evergreen Diary** is a blogging platform where users can read, write, and share insightful posts on a variety of topics. The website allows users to explore different articles ranging from lifestyle and technology to personal development. It's built using **Node.js**, **Express**, **MongoDB**, and **EJS**.
 
 ### **Access the Deployed App**
-Click [here](https://blog-website-production-92e8.up.railway.app/) to access the live application.
+Click [here](https://blog-website-km92.onrender.com/) to access the live application.
 
 ---
 
@@ -28,7 +28,7 @@ The app is built using the following technologies:
 ## **4. How to Use**
 
 ### **I. Access the App**
-- For production: Use the deployed URL [here](https://blog-website-production-92e8.up.railway.app/).
+- For production: Use the deployed URL [here](https://blog-website-km92.onrender.com/).
 - For development: Open `http://localhost:3000` in your browser.
 
 ### **II. Explore Blogs**
